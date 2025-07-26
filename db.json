@@ -1,64 +1,8 @@
 {
   "users": [
     {
-      "name": "Dr. Kristine Luettgen",
-      "id": 2
-    },
-    {
-      "name": "Warren Borer",
-      "id": 3
-    },
-    {
-      "name": "Archie Murray",
-      "id": 4
-    },
-    {
-      "name": "Michelle Hermiston",
-      "id": 5
-    },
-    {
-      "name": "Bernice Gerlach",
-      "id": 6
-    },
-    {
-      "name": "Marie Wiegand",
-      "id": 7
-    },
-    {
-      "name": "Bethany Ruecker",
-      "id": 8
-    },
-    {
-      "name": "Julia Hickle",
-      "id": 9
-    },
-    {
-      "name": "Terry Feeney",
-      "id": 10
-    },
-    {
-      "name": "Darrell Braun",
-      "id": 11
-    },
-    {
-      "name": "Carroll Hayes",
-      "id": 12
-    },
-    {
-      "name": "Mr. April Feest",
-      "id": 13
-    },
-    {
-      "name": "Dr. Lydia Runolfsdottir",
-      "id": 14
-    },
-    {
-      "name": "Julio Kemmer",
-      "id": 15
-    },
-    {
-      "name": "Santos Littel",
-      "id": 16
+      "name": "Alan Fahey",
+      "id": 1
     }
   ],
   "albums": [],
