@@ -11,6 +11,10 @@
     {
       "name": "Connie Wintheiser",
       "id": 9
+    },
+    {
+      "name": "Mathew Rohan",
+      "id": 10
     }
   ],
   "albums": [
@@ -23,6 +27,36 @@
       "userId": 7,
       "title": "Recycled Concrete Fish",
       "id": 11
+    },
+    {
+      "userId": 7,
+      "title": "Awesome Wooden Chips",
+      "id": 12
+    },
+    {
+      "userId": 7,
+      "title": "Licensed Fresh Tuna",
+      "id": 13
+    },
+    {
+      "userId": 8,
+      "title": "Handcrafted Wooden Chicken",
+      "id": 14
+    },
+    {
+      "userId": 8,
+      "title": "Unbranded Concrete Salad",
+      "id": 15
+    },
+    {
+      "userId": 9,
+      "title": "Handcrafted Plastic Sausages",
+      "id": 16
+    },
+    {
+      "userId": 9,
+      "title": "Handmade Wooden Bacon",
+      "id": 17
     }
   ],
   "photos": []
