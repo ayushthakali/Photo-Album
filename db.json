@@ -19,26 +19,6 @@
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 7
-    },
-    {
-      "userId": 7,
-      "title": "Recycled Concrete Fish",
-      "id": 11
-    },
-    {
-      "userId": 7,
-      "title": "Awesome Wooden Chips",
-      "id": 12
-    },
-    {
-      "userId": 7,
-      "title": "Licensed Fresh Tuna",
-      "id": 13
-    },
-    {
       "userId": 8,
       "title": "Handcrafted Wooden Chicken",
       "id": 14
@@ -57,6 +37,16 @@
       "userId": 9,
       "title": "Handmade Wooden Bacon",
       "id": 17
+    },
+    {
+      "userId": 7,
+      "title": "Ergonomic Plastic Pizza",
+      "id": 19
+    },
+    {
+      "userId": 7,
+      "title": "Handcrafted Bronze Table",
+      "id": 20
     }
   ],
   "photos": []
