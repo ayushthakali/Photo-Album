@@ -13,10 +13,17 @@
       "id": 9
     }
   ],
-  "albums": [{
-    "id": 10,
-    "title" : "Hiking Trip",
-    "userId": 7
-  }],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 7
+    },
+    {
+      "userId": 7,
+      "title": "Recycled Concrete Fish",
+      "id": 11
+    }
+  ],
   "photos": []
 }
