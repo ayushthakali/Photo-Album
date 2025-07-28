@@ -31,7 +31,9 @@ function PhotosList({ album }) {
         </Button>
       </div>
       <div>
-        {content}
+        <div className="mx-8 flex flex-row flex-wrap justify center">
+          {content}
+        </div>
       </div>
     </div>
   );
